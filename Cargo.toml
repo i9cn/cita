@@ -9,6 +9,10 @@ members = ["cita-auth"
 ,"tools/create-key-addr"
 ,"tools/create-genesis"
 ,"tests/chain-executor-mock"
+,"tests/json-test"
+,"tests/consensus-mock"
+,"tests/box-executor"
+,"tests/chain-performance-by-mq"
 ]
 
 [profile.bench]
